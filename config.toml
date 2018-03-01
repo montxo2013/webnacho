@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-#title = "Academic"
+#title = "@nachalca"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -43,14 +43,14 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "1950s"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "classic"
 
   # Your details.
-  name = "Ignacio Alvarez"
+  name = "Ignacio Alvarez-Castro"
   role = "Assistant Professor"
 
   # Organizations/Affiliations.
