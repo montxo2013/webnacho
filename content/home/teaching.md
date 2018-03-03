@@ -15,14 +15,13 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am teaching "Bayesian inference" course at Universidad de la República. The course is the second course of statistical inference in the undergrad program in statistics. The main goal is to introduce Beysian methods to data analysis.   
 
-I am a teaching instructor for the following courses at University X:
+In the past, I have being involved as assistant in several statistics courses, both in Iowa State University (ISU) and Universidad de la República (UdelaR).
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+**Previous teaching experience:**
+
+* STAT 401: Statistical methods for research workers (TA, Fall 2016, ISU)
+* Statistics II (TA, 2005 - 2007, UdelaR)
+* Time Series (TA, 2011, UdelaR)
+* Multivariate methods (TA, 2010, UdelaR)
